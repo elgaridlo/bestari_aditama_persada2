@@ -4,7 +4,7 @@ Proyek ini dikerjakan oleh Elga Ridlo Sinatriya
 
 ## I HOPE THAT I CAN PASS THIS TEST
 
-If you want to see the repository just go to https://github.com/elgaridlo/metacogg
+If you want to see the repository just go to https://github.com/elgaridlo/bestari_aditama_persada2.git
 
 ## Installasi
 
