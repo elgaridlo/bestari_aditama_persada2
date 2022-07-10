@@ -5,7 +5,9 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "nodemon app.js"
+    "server": "nodemon app.js",
+    "test3.1": "node ./test3/kelipatan7.js",
+    "test3.2": "node ./test3/checkDS.js"
   },
   "keywords": [],
   "author": "",
